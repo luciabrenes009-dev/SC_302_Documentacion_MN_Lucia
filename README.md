@@ -1,4 +1,4 @@
 # SC_302_Documentacion_MN_Lucia
 En el proceso
 
-Este es mi primera práctica con githut
+Este es mi primera práctica con GitHup
